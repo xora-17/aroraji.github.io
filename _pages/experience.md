@@ -13,7 +13,7 @@ author_profile: true
 * Explored and implemented solutions involving large-scale data processing, automation, and decision-making.
 * Collaborated with researchers and engineers to design, evaluate, and improve system performance.
 
-**Certificate:** [View Certificate](CERTIFICATE_LINK)
+**Certificate:** [View Certificate](https://drive.google.com/file/d/1N5iEinOVjTGxjE4EaDECLsHVdWqB0GGa/view?usp=sharing)
 
 ---
 
@@ -25,7 +25,7 @@ author_profile: true
 * Conducted experiments, analyzed results, and contributed to the development of predictive solutions.
 * Applied analytical and problem-solving skills to address real-world challenges in a research environment.
 
-**Certificate:** [View Certificate](CERTIFICATE_LINK)
+**Certificate:** [View Certificate](https://drive.google.com/file/d/1PlPA9knHLhuZ-AX5sQSzppkFV8k7YnGR/view?usp=sharing)
 
 
 
